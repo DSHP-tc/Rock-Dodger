@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1588839809 source:c:\users\dhananjay puranik\music\rockdodger\rockdodger\main.cpp
+	<iostream>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	<graphics.h>
+	<stdlib.h>
+	<stdio.h>
+
